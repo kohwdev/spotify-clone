@@ -1,12 +1,7 @@
 "use client";
 
-import React, { useEffect, useState } from "react";
-import { useRouter } from "next/router";
-
 const AccountContent = () => {
-  const router = useRouter();
-
-  return <div></div>;
+  return <div>Your account page.</div>;
 };
 
 export default AccountContent;

@@ -22,9 +22,12 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Add environment variables to .env file
-NEXT_PUBLIC_SUPABASE_URL= "" </br>
-NEXT_PUBLIC_SUPABASE_ANON_KEY= "" </br>
-SUPABASE_SERVICE_ROLE_KEY= "" </br>
+NEXT_PUBLIC_SUPABASE_URL= "" 
+</br>
+NEXT_PUBLIC_SUPABASE_ANON_KEY= "" 
+</br>
+SUPABASE_SERVICE_ROLE_KEY= "" 
+</br>
 
 ## Learn More
 
